@@ -1,7 +1,15 @@
-### Hi there 👋
 
-[![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-le)](https://github.com/tt-le/github-readme-stats)
 
+<!-- [![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-le&count_private=true)](https://github.com/tt-le/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-le&layout=compact)](https://github.com/tt-le/github-readme-stats)
+ -->
+ 
+ <a href="https://github.com/tt-le/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-le&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/tt-le/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-le&layout=compact" />
+</a>
 <!--
 **tt-le/tt-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
